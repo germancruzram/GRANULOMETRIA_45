@@ -17,14 +17,10 @@ Link para descarga: https://github.com/germancruzram/GRANULOMETRIA_45/releases/d
 - Visualiza la curva granulométrica junto con las **líneas de máxima densidad** y **bandas de especificación**.
 - Muestra las **marcas Bailey** y permite ajustar las proporciones de los agregados en función de los resultados obtenidos.
 
-### 🗂️ **Gestión de Proyectos**
+### 🗂️ **Gestión de Proyectos** (requiere licencia)
 
 - **Guardar y cargar proyectos**: Facilita la organización de diferentes proyectos y su análisis histórico.
 - **Configuración personalizable**: Permite ajustar las especificaciones de granulometría y optimización.
-
-
-
-
 
 ## 📊 **Gráfico de Estructura de la Aplicación**
 
@@ -83,7 +79,7 @@ graph TD
 
 ## 🤝**Contribuciones**
 
-Las contribuciones son bienvenidas. Si deseas mejorar el código, añadir características o corregir errores, por favor, realiza un fork de este repositorio y envía tus pull requests.
+Las contribuciones son bienvenidas. 
 
 ## 👨‍💻**Autor**
 
