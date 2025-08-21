@@ -77,9 +77,9 @@ graph TD
 ```
 
 
-## 🤝**Contribuciones**
+## 🤝**Contribuciones y recomendaciones**
 
-Las contribuciones son bienvenidas. 
+Son bienvenidas. En el perfil se encuentra mi contacto.
 
 ## 👨‍💻**Autor**
 
