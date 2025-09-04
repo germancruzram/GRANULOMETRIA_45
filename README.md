@@ -8,7 +8,7 @@ Link para descarga: https://github.com/germancruzram/GRANULOMETRIA_45/releases/d
 
 ### 🛠️ **Herramientas de Análisis**
 
-- **Análisis Interactivo**: Permite ingresar datos de diseño y visualizar la curva granulométrica en tiempo real.
+- **Análisis Interactivo**: Permite ingresar datos de diseño y visualizar la curva granulométrica al instante.
 - **Optimización de Mezclas**: Determina las proporciones óptimas de hasta 5 agregados para cumplir con las especificaciones **SUPERPAVE**.
 - **Generación de Reportes**: Exporta informes completos en formato PDF con los datos del proyecto, la tabla granulométrica y la gráfica final.
 
