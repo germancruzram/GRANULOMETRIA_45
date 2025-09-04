@@ -2,7 +2,7 @@
 
 **Granulometría_45** es una aplicación de escritorio diseñada para realizar un análisis granulométrico de mezclas asfálticas bajo la especificación **AASHTO M323** utilizando la gráfica de potencia 0.45 de la **FHWA**. La herramienta está orientada a profesionales y técnicos en ingeniería de pavimentos y tiene como objetivo optimizar el diseño de mezclas asfálticas mediante un análisis interactivo.
 
-Link para descarga: [https://github.com/germancruzram/GRANULOMETRIA_45/releases/download/GRANULOMETRIA_45/GRANULOMETRIA_45.exe](https://github.com/germancruzram/GRANULOMETRIA_45/releases/download/GRANULOMETRIA_45/GRANULOMETRIA_45.exe)
+Link para descarga: 
 
 ## Características principales
 
